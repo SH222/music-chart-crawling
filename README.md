@@ -1,3 +1,3 @@
 ## 음악 차트 크롤링
 
-axios, chreeio 사용
+axios, cheerio 사용
